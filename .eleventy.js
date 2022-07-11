@@ -22,7 +22,7 @@ module.exports = config => {
   config.addPassthroughCopy({ "public": './' });
 
   config.setBrowserSyncConfig({
-    files: ['dist/**/*'],
+    files: ['docs/**/*'],
     open: true,
   });
 

@@ -1,15 +1,15 @@
 {
   "name": "Justin Gu",
   "description": "CS & BBA Double Degree Student @ University of Waterloo",
-  "url": "https://reeseschultz.github.io",
-  "baseUrl": "/11r/",
+  "url": "https://jusgu.github.io",
+  "baseUrl": "/eleventy-website/",
   "author": {
-    "handle": "@ReeseCodes",
-    "name": "Reese Schultz"
+    "handle": "@JustinGu",
+    "name": "Justin Gu"
   },
   "images": {
-    "twitter": "twitter.jpg",
-    "og": "og.jpg"
+    "twitter": "twitter.png",
+    "og": "og.png"
   },
   "feed": {
     "filename": "feed.xml",
