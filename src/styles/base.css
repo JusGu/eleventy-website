@@ -176,3 +176,8 @@ hr {
 #privacy-notice-button-container:hover {
   @apply bg-gray-500 rounded cursor-pointer;
 }
+
+.holds-the-iframe {
+  background:url(https://i.imgur.com/kH0eozp.gif) center center no-repeat;
+  background-size: 100px;
+}

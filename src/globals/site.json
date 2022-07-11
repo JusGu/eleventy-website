@@ -8,8 +8,8 @@
     "name": "Justin Gu"
   },
   "images": {
-    "twitter": "twitter.png",
-    "og": "og.png"
+    "twitter": "/portfolio-3/twitter.png",
+    "og": "/portfolio-3/og.png"
   },
   "feed": {
     "filename": "feed.xml",
