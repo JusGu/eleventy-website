@@ -38,7 +38,7 @@ module.exports = config => {
     pathPrefix: require('./src/globals/site.json').baseUrl,
     dir: {
       input: 'src',
-      output: 'dist',
+      output: 'docs',
       includes: 'includes',
       layouts: 'includes/layouts',
       data: 'globals',

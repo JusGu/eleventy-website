@@ -16,6 +16,6 @@ git add -A
 git commit -m 'Deploy'
 
 # update the below line with your repository and preferred branches
-git push -f git@github.com:JusGu/eleventy-website.git
+git push -f git@github.com:JusGu/eleventy-website.git master:gh-pages
 
 cd -
