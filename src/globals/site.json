@@ -2,7 +2,7 @@
   "name": "Justin Gu",
   "description": "CS & BBA Double Degree Student @ University of Waterloo",
   "url": "https://jusgu.github.io",
-  "baseUrl": "/eleventy-website/",
+  "baseUrl": "/",
   "author": {
     "handle": "@JustinGu",
     "name": "Justin Gu"
