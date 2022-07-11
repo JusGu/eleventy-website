@@ -1,0 +1,24 @@
+{
+  "name": "Justin Gu",
+  "description": "CS & BBA Double Degree Student @ University of Waterloo",
+  "url": "https://reeseschultz.github.io",
+  "baseUrl": "/11r/",
+  "author": {
+    "handle": "@ReeseCodes",
+    "name": "Reese Schultz"
+  },
+  "images": {
+    "twitter": "twitter.jpg",
+    "og": "og.jpg"
+  },
+  "feed": {
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://example.com/"
+  },
+  "jsonfeed": {
+    "filename": "feed.json",
+    "path": "/feed/feed.json",
+    "url": "https://example.com/feed/feed.json"
+  }
+}

@@ -1,0 +1,32 @@
+<div>
+    <div class="md:flex justify-evenly mb-6">
+        <div class="flex justify-between mx-auto w-full">
+            {% if pagination.href.previous %}
+                <div class="mx-auto ">
+                    <a class="previous-page" href="{{ pagination.href.previous | url }}">Previous Page</a>
+                </div>
+            {% endif %}
+
+
+        </div>
+        <p class="text-center text-sm italic mb-10 mt-1 w-full">Page
+            {{ pagination.pageNumber + 1 }}
+            of
+            {{ pagination.pages.length }}.</p>
+        <div class="flex justify-between mx-auto w-full">
+            {% if pagination.href.next %}
+                <div class="mx-auto ">
+                    <a class="next-page md:mb-2" href="{{ pagination.href.next | url }}">Next Page</a>
+                </div>
+            {% endif %}
+
+            {#{% if page.url !== pagination.href.last %}
+                <div class="mx-auto">
+                    <a class="last-page" href="{{ pagination.href.last | url }}">Last Page</a>
+                </div>
+            {% endif %}#}
+        </div>
+    </div>
+
+
+</div>
