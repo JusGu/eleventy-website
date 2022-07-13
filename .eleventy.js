@@ -22,7 +22,7 @@ module.exports = config => {
   config.addPassthroughCopy({ "public": './' });
 
   config.setBrowserSyncConfig({
-    files: ['docs/**/*'],
+    files: ['dist/**/*'],
     open: true,
   });
 
@@ -38,7 +38,7 @@ module.exports = config => {
     pathPrefix: require('./src/globals/site.json').baseUrl,
     dir: {
       input: 'src',
-      output: 'docs',
+      output: 'dist',
       includes: 'includes',
       layouts: 'includes/layouts',
       data: 'globals',
