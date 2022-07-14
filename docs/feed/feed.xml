@@ -3,8 +3,8 @@
 	<title>Justin Gu</title>
 	<subtitle>CS &amp; BBA Double Degree Student @ University of Waterloo</subtitle>
 	
-	<link href="http://www.justingu.tech/http:/www.justingu.tech/feed/feed.xml" rel="self"/>
-	<link href="http://www.justingu.tech/"/>
+	<link href="http://www.justingu.tech/feed/feed.xml" rel="self"/>
+	<link href="http://www.justingu.tech"/>
 	<updated>2016-10-09T00:00:00Z</updated>
 	<id>https://example.com/</id>
 	<author> 
@@ -13,9 +13,9 @@
 	
 	<entry>
 		<title>MSCHF</title>
-		<link href="http://www.justingu.tech/http:/www.justingu.tech/post/mschf/"/>
+		<link href="http://www.justingu.tech/post/mschf/"/>
 		<updated>2016-10-09T00:00:00Z</updated>
-		<id>http://www.justingu.tech/http:/www.justingu.tech/post/mschf/</id>
+		<id>http://www.justingu.tech/post/mschf/</id>
 		<content type="html">&lt;h1 id=&quot;mschf-posters&quot; tabindex=&quot;-1&quot;&gt;MSCHF Posters&lt;/h1&gt;
 &lt;p&gt;TLDR: In 2020 I designed a series of posters for MSCHF. I’d won an unofficial contest and got my designs placed on a billboard and was featured in an article.&lt;/p&gt;
 &lt;p&gt;Back in early 2020, I’d first heard of MSCHF through the MSCHF box, a physical box you can purchase in which you didn’t know the value of. It instantly became an internet sensation and had sold out within a few days. I decided to investigate more into the company which resulted in me joining their largest unofficial discord server where they were hosting a graphic design contest. Being the graphic designer I was, I decided to sign up and submit a few designs I thought were interesting (along with 100 ish other designs from talented designers) and patiently waited not expecting to win anything. However, a few days later, I was contacted by the organizers and that’s when I realized I’d won an (unofficial) MSCHF contest and my design was going to be placed on a billboard in NYC.&lt;/p&gt;
@@ -42,9 +42,9 @@
 	
 	<entry>
 		<title>Why My Practice of Thelema Makes Me Better at World of Warcraft</title>
-		<link href="http://www.justingu.tech/http:/www.justingu.tech/post/why-my-practice-of-thelema-makes-me-better-at-world-of-warcraft/"/>
+		<link href="http://www.justingu.tech/post/why-my-practice-of-thelema-makes-me-better-at-world-of-warcraft/"/>
 		<updated>1974-09-09T00:00:00Z</updated>
-		<id>http://www.justingu.tech/http:/www.justingu.tech/post/why-my-practice-of-thelema-makes-me-better-at-world-of-warcraft/</id>
+		<id>http://www.justingu.tech/post/why-my-practice-of-thelema-makes-me-better-at-world-of-warcraft/</id>
 		<content type="html">&lt;p&gt;⛧⛧⛧&lt;/p&gt;
 &lt;p&gt;ivil wea qep&lt;/p&gt;
 &lt;p&gt;⛧⛧⛧&lt;/p&gt;

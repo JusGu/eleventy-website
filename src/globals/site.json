@@ -1,8 +1,8 @@
 {
   "name": "Justin Gu",
   "description": "CS & BBA Double Degree Student @ University of Waterloo",
-  "url": "http://www.justingu.tech/",
-  "baseUrl": "http://www.justingu.tech/",
+  "url": "http://www.justingu.tech",
+  "baseUrl": "/",
   "author": {
     "handle": "@JustinGu",
     "name": "Justin Gu"
