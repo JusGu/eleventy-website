@@ -82,7 +82,7 @@ pre {
 }
 
 hr {
-  @apply mt-4 mb-2 border-dotted border-b border-gray-300;
+  @apply mt-4 mb-2 border-b border-gray-300;
 }
 
 .toc {

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>Justin Gu</title>
+	<subtitle>CS &amp; BBA Double Degree Student @ University of Waterloo</subtitle>
+	
+	<link href="http://www.justingu.tech/feed/feed.xml" rel="self"/>
+	<link href="http://www.justingu.tech"/>
+	<updated>2016-10-09T00:00:00Z</updated>
+	<id>https://example.com/</id>
+	<author> 
+		<name>Justin Gu</name>
+	</author>
+	
+	<entry>
+		<title>MSCHF</title>
+		<link href="http://www.justingu.tech/post/mschf/"/>
+		<updated>2016-10-09T00:00:00Z</updated>
+		<id>http://www.justingu.tech/post/mschf/</id>
+		<content type="html">&lt;h1 id=&quot;mschf-posters&quot; tabindex=&quot;-1&quot;&gt;MSCHF Posters&lt;/h1&gt;
+&lt;p&gt;TLDR: In 2020 I designed a series of posters for MSCHF. I’d won an unofficial contest and got my designs placed on a billboard and was featured in an article.&lt;/p&gt;
+&lt;p&gt;Back in early 2020, I’d first heard of MSCHF through the MSCHF box, a physical box you can purchase in which you didn’t know the value of. It instantly became an internet sensation and had sold out within a few days. I decided to investigate more into the company which resulted in me joining their largest unofficial discord server where they were hosting a graphic design contest. Being the graphic designer I was, I decided to sign up and submit a few designs I thought were interesting (along with 100 ish other designs from talented designers) and patiently waited not expecting to win anything. However, a few days later, I was contacted by the organizers and that’s when I realized I’d won an (unofficial) MSCHF contest and my design was going to be placed on a billboard in NYC.&lt;/p&gt;
+&lt;h2 id=&quot;the-designs&quot; tabindex=&quot;-1&quot;&gt;The Designs&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.justingu.tech/mschf/Untitled.png&quot; alt=&quot;Design #1: Minimalist but gets to the point. Red accent to attract attention and curiosity immediately, essential for an advert that people only get 2-3 seconds to look at.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Design #1: Minimalist but gets to the point. Red accent to attract attention and curiosity immediately, essential for an advert that people only get 2-3 seconds to look at.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.justingu.tech/mschf/Untitled%201.png&quot; alt=&quot;Design #2: Another minimalist design but portrays the main idea immediately. Colours are matched quite well. This is personally my favourite one.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Design #2: Another minimalist design but portrays the main idea immediately. Colours are matched quite well. This is personally my favourite one.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.justingu.tech/mschf/Untitled%202.png&quot; alt=&quot;Design #3: Not sure if you can notice this but the right side is slightly lighter than the left side. This was done because people instantly are attracted to brighter vibrant colors so they look at the picture immediately.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Design #3: Not sure if you can notice this but the right side is slightly lighter than the left side. This was done because people instantly are attracted to brighter vibrant colors so they look at the picture immediately.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.justingu.tech/mschf/Untitled%203.png&quot; alt=&quot;Design #4: This has an orange overlay on the entire piece to give more of a casual vibe that I got from this drop.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Design #4: This has an orange overlay on the entire piece to give more of a casual vibe that I got from this drop.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.justingu.tech/mschf/Untitled%204.png&quot; alt=&quot;Design #5: Same idea as the first billboard (the red accent and minimalistic design is to peak reader&#39;s interest) , the red lettering spells out &amp;quot;MSCHF, internet&#39;s delightful collection.&amp;quot; while readers can choose to read the white text as well&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Design #5: Same idea as the first billboard (the red accent and minimalistic design is to peak reader’s interest) , the red lettering spells out “MSCHF, internet’s delightful collection.” while readers can choose to read the white text as well&lt;/p&gt;
+&lt;h2 id=&quot;the-results&quot; tabindex=&quot;-1&quot;&gt;The Results&lt;/h2&gt;
+&lt;p&gt;Although I wasn’t based in NYC, I asked a member of the server to drive out and take a few pictures. It didn’t take much convincing since everyone wanted to see the billboards on display as well.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.justingu.tech/mschf/Untitled%205.png&quot; alt=&quot;Untitled&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://www.justingu.tech/mschf/Untitled%206.png&quot; alt=&quot;On March 14th, 2020, Designs #2 and #3 were showcased on the billboards. Apologies for the intense blue tint over the images, the person who took the images said that was a result of his viewing angles.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;On March 14th, 2020, Designs #2 and #3 were showcased on the billboards. Apologies for the intense blue tint over the images, the person who took the images said that was a result of his viewing angles.&lt;/p&gt;
+&lt;p&gt;Lastly, they were also featured in &lt;a href=&quot;https://www.canaan.com/latest/laura-chau-the-next-great-consumer-companies-won-t-be-exclusive-clubs-they-will-be-inclusive-cults&quot;&gt;this article&lt;/a&gt;. Funny thing, I didn’t even know someone had written about this until I’d search up MSCHF Billboard on Google images and saw my billboards!&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.justingu.tech/portfolio-3&quot;&gt;All Works&lt;/a&gt;&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>Why My Practice of Thelema Makes Me Better at World of Warcraft</title>
+		<link href="http://www.justingu.tech/post/why-my-practice-of-thelema-makes-me-better-at-world-of-warcraft/"/>
+		<updated>1974-09-09T00:00:00Z</updated>
+		<id>http://www.justingu.tech/post/why-my-practice-of-thelema-makes-me-better-at-world-of-warcraft/</id>
+		<content type="html">&lt;p&gt;⛧⛧⛧&lt;/p&gt;
+&lt;p&gt;ivil wea qep&lt;/p&gt;
+&lt;p&gt;⛧⛧⛧&lt;/p&gt;
+</content>
+	</entry>
+</feed>
