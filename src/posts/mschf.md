@@ -6,7 +6,7 @@ date: 2022-01-05
 updatedDate: 2022-01-05
 tags:
   - post
-  - graphic design
+  - design
 ---
 
 ### MSCHF Posters

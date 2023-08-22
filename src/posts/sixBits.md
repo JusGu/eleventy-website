@@ -6,7 +6,7 @@ date: 2022-01-03
 updatedDate: 2022-01-03
 tags:
   - post
-  - graphic design
+  - design
 ---
 
 TLDR: I was in charge of creating sponsorship packages, assets, social media posts for the hackathon 6ixbits, hosted by the [Toronto Youth Network](../toronto-youth-network).
