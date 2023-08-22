@@ -13,7 +13,7 @@ permalink: "{% if path %}{{ path | slug }}{% else %}{{'/post/'}}{{ title | slug 
             <p class="excerpt">{{ excerpt }}</p>
         {% endif %}
 
-        {% if tags %}
+        {# {% if tags %}
             <div class="mb-2">
                 {% for tag in tags %}
                     {%- if tag !== "post" -%}
@@ -21,7 +21,7 @@ permalink: "{% if path %}{{ path | slug }}{% else %}{{'/post/'}}{{ title | slug 
                     {%- endif -%}
                 {% endfor %}
             </div>
-        {% endif %}
+        {% endif %} #}
 
         {% if date %}
             {% if updatedDate and (date|string) !== (updatedDate|string) %}
