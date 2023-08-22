@@ -4,7 +4,7 @@ title: About
 path: about
 ---
 
-Hey there, I’m Justin Gu. I love crafting elegant solutions to complex problems
+Hey there, I’m Justin Gu. I love crafting elegant solutions to complex problems.
 
 Creating something is all about problem-solving — my approach to software development has consistently revolved around this state-of-mind.
 

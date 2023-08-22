@@ -9,7 +9,7 @@ tags:
   - design
 ---
 
-TLDR: I created the branding to Toronto Youth Network 2020
+TLDR: I created the branding to Toronto Youth Network 2020.
 
 In early 2020, I was approached by my friend George Shao for a pretty exciting opportunity: to host a hackathon. He was running Toronto Youth Network that year, a youth organization specializing in providing meaningful networking skills and had a history of hosting hackathons. We decided to recreate the logo for this years hackathon in order to give the youth network a revamped look.
 
